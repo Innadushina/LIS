@@ -19,4 +19,5 @@ dotnet run
 Пример вывода программы:
 
 [2, hello, sun, 33, world] -> [2, sun, 33]
+
 ![image](https://user-images.githubusercontent.com/118613521/219938413-2363a7cd-181d-42cc-8cc3-1f20b459eaa8.png)
